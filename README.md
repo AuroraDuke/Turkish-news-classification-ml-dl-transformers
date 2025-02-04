@@ -5,21 +5,17 @@ This project implements a text classification application using the TTC4900 News
 ---
 
 ## 📜 Table of Contents 📚🔍📌
-- [Objective](#objective)
-- [Findings & Insights](#findings--insights)
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Preprocessing](#preprocessing)
-- [Feature Extraction](#feature-extraction)
-- [Models Implemented](#models-implemented)
-  - [Traditional Machine Learning Models](#traditional-machine-learning-models)
-  - [Artificial Neural Networks (ANN)](#artificial-neural-networks-ann)
-  - [Complex Neural Network Architectures](#complex-neural-network-architectures)
-  - [Transformer-Based Models](#transformer-based-models)
-- [Models Performance and Analysis](#models-performance-and-analysis)
-- [Conclusion](#conclusion)
-- [References](#references)
-
+- [Objective](#-objective-)
+- [Findings & Insights](#-findings--insights-)
+- [Data Preprocessing](#-data-preprocessing-)
+- [Feature Extraction](#-feature-extraction-techniques-)
+- [Models Implemented](#-model-training-)
+  - [Traditional Machine Learning Models](#-traditional-machine-learning-models-)
+  - [Artificial Neural Networks (ANN)](#-neural-networks-)
+  - [Transformer-Based Models](#-transformer-based-models-)
+- [Models Performance and Analysis](#-models-performance-and-analysis-)
+- [Conclusion](#-conclusion-)
+- [References](#-references-)
 ---
 
 ## 🎯 Objective 🏆💡
